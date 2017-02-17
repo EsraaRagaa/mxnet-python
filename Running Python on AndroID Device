@@ -1,0 +1,16 @@
+Install Python App 
+1. Open App play Store
+2. Search "Python", found two App can be used
+   QPython - Python for Android,  QPython3 - Python3 for Android
+3. Install one of QPython and you can you can edit and run Python on Android Phone. 
+
+4. QPython support two way to install python packages 
+   4.1 Install with QPypi - Install packages that only Android Device (QPypi)
+   4.2 Install with official pypi - Install pure Python Packages (pip console)
+   
+5. Packages that need to install using QPypi
+   numpy  ---  last ver. 1.9.2                      # test ok on 16 Feb 2017
+   
+   
+
+......
