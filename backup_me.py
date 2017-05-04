@@ -68,5 +68,5 @@ def pycode_backup_zip(src_path='.',dst_path='..'):
 
 if __name__ == '__main__':
     print '# Begin pycode backup... at: ', get_tid_time()
-    file_list = pycode_backup_zip(dst_path='/var/leo2017/Backup')
+    file_list = pycode_backup_zip()
     # for fname in file_list :         print fname
